@@ -6,4 +6,7 @@ I recently got engaged and am planning my wedding.
 
 #Programming background
 
-I am on my third of five terms at Oregon State. 
+I am on my third of five terms at Oregon State.
+
+My favorite project so far has been my final for Intro to CS II, in which I made
+a maze game. 
