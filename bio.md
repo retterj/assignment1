@@ -4,4 +4,6 @@ My hobbies including running and exploring new places with friends.
 
 I recently got engaged and am planning my wedding.
 
+After graduation, I hope to get a job in Texas or Raleigh, NC.
+
 #Programming background 
