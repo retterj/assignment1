@@ -4,4 +4,6 @@ My hobbies including running and exploring new places with friends.
 
 I recently got engaged and am planning my wedding.
 
-#Programming background 
+#Programming background
+
+I am on my third of five terms at Oregon State. 
