@@ -6,6 +6,10 @@ I recently got engaged and am planning my wedding.
 
 After graduation, I hope to get a job in Texas or Raleigh, NC.
 
+Here is some more content after merging. I am looking forward to learning more in this class.
+
+Here is a final change on the alternate version.
+
 #Programming background
 
 I am on my third of five terms at Oregon State.
